@@ -13,22 +13,18 @@ ExtractAnything grants you the ability to extract any elements in a picture and 
 
 ![20](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/ace40cea-a7c2-40f0-98f9-03095e331ce1)
 
-# Exceptional Ultra-Fine High Precision
+# Exceptional Ultra-Fine high-precision
 By leveraging our groundbreaking model, you can capture the finest details, attaining precise extraction down to the hair strand level. It flawlessly portrays every image, managing seamlessly regardless of the complexity of the picture.
 
 https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/a196e9d8-dcc1-480c-a7b9-daff9aba6a8c
 
-# Contact Us
-* contact@any-vision.com
-* [ExtractAnything](https://www.extract-anything.com/)
-
-# Unleash Infinite Design Possibilities with Image Generation & ExtractAnything!
-By integrating Image Generation and ExtractAnything, you can truly realize your desires. Using Image Generation technology alone might require countless adjustments to the prompt words to obtain the overall desired image results, but by combining it with ExtractAnything, you can generate images and then extract the desired elements from them, reassembling them more efficiently and quickly to achieve the results you want, truly unlocking infinite design possibilities.
+# Control every pixel
+ExtractAnything endows you with boundless control, allowing precise manipulation of every pixel and unleashing unlimited creative possibilities.
 
 ![0](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/c4a9eb68-e89c-4ddc-a78e-831a9781304b)
 
-# Control every pixel
-ExtractAnything endows you with boundless control, allowing precise manipulation of every pixel and unleashing unlimited creative possibilities.
+# Unleash Infinite Design Possibilities with Image Generation & ExtractAnything!
+By integrating Image Generation and ExtractAnything, you can truly realize your desires. Using Image Generation technology alone might require countless adjustments to the prompt words to obtain the overall desired image results, but by combining it with ExtractAnything, you can generate images and then extract the desired elements from them, reassembling them more efficiently and quickly to achieve the results you want, truly unlocking infinite design possibilities.
 
 ![2](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/bd3201d7-6a2b-4a74-8c70-a18105cbc678)
 
@@ -36,6 +32,12 @@ ExtractAnything endows you with boundless control, allowing precise manipulation
 The transition from [remove bg] merely removing backgrounds to [ExtractAnything] is revolutionary, granting the ability to control every pixel. Possessing the ability to control each pixel signifies infinite extraction, arbitrary extraction, limitless combination, and boundless imagination.
 
 ![4](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/285f563f-dd6c-42a9-987c-610eacfd1f6d)
+
+# Contact Us
+* contact@any-vision.com
+* [ExtractAnything](https://www.extract-anything.com/)
+
+  
 ![5](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/2ef8ede1-d379-4104-967f-4af4c9766aae)
 ![7](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/03aa940a-a2ae-4d93-bfd0-82d322011887)
 ![8](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/344f6778-e5be-4c38-bff0-194d326ad855)
