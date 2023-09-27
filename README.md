@@ -22,10 +22,19 @@ https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/a196e9d8-dc
 * contact@any-vision.com
 * [ExtractAnything](https://www.extract-anything.com/)
 
-#### ✨ Step into a World of Creative Freedom with ExtractAnything! Materialize Your Visions & Redefine Your Design Experience! ✨
+# Unleash Infinite Design Possibilities with Image Generation & ExtractAnything!
+By integrating Image Generation and ExtractAnything, you can truly realize your desires. Using Image Generation technology alone might require countless adjustments to the prompt words to obtain the overall desired image results, but by combining it with ExtractAnything, you can generate images and then extract the desired elements from them, reassembling them more efficiently and quickly to achieve the results you want, truly unlocking infinite design possibilities.
 
 ![0](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/c4a9eb68-e89c-4ddc-a78e-831a9781304b)
+
+# Control every pixel
+ExtractAnything endows you with boundless control, allowing precise manipulation of every pixel and unleashing unlimited creative possibilities.
+
 ![2](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/bd3201d7-6a2b-4a74-8c70-a18105cbc678)
+
+# From remove bg to precisely extracting elements
+The transition from [remove bg] merely removing backgrounds to [ExtractAnything] is revolutionary, granting the ability to control every pixel. Possessing the ability to control each pixel signifies infinite extraction, arbitrary extraction, limitless combination, and boundless imagination.
+
 ![4](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/285f563f-dd6c-42a9-987c-610eacfd1f6d)
 ![5](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/2ef8ede1-d379-4104-967f-4af4c9766aae)
 ![7](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/03aa940a-a2ae-4d93-bfd0-82d322011887)
@@ -41,7 +50,7 @@ https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/a196e9d8-dc
 ![14](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/bb2e0abe-25eb-4d8e-8db1-ea4ffbc63586)
 ![13](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/3302540d-0eae-45e4-839a-18d62547f6c5)
 
-
+#### ✨ Step into a World of Creative Freedom with ExtractAnything! Materialize Your Visions & Redefine Your Design Experience! ✨
 
 
 
