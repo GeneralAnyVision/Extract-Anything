@@ -16,3 +16,6 @@ ExtractAnything grants you the ability to extract any elements in a picture and 
 # Exceptional Ultra-Fine High Precision
 By leveraging our groundbreaking model, you can capture the finest details, attaining precise extraction down to the hair strand level. It flawlessly portrays every image, managing seamlessly regardless of the complexity of the picture.
 
+https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/a196e9d8-dcc1-480c-a7b9-daff9aba6a8c
+
+
