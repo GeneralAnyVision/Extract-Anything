@@ -1,4 +1,4 @@
-# Remove BG PLUS: Extract Anything   
+# RemoveBG PLUS: Extract Anything   
 Extract Anything stands out as a user-centric AI vision model, the PLUS version of Remove BG, providing unparalleled flexibility and customization. It satisfies every content extraction need you may have from images and achieves significant advancements in functionality, performance, and efficiency. 
 
 ![cloth](https://github.com/GeneralAnyVision/ExtractAnything/assets/128576445/f45ff469-e32e-4297-ab92-95d6823daae5)
