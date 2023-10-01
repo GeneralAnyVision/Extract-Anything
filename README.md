@@ -1,4 +1,4 @@
-# **RemoveBG PLUS: ExtractAnything is an AI-powered vision model developed by Any-Vision, capable of controlling every pixel to extract anything from images.** 
+**RemoveBG PLUS: ExtractAnything is an AI-powered vision model developed by Any-Vision, capable of controlling every pixel to extract anything from images.** 
 
 # [RemoveBG PLUS: Extract Anything](https://www.extract-anything.com/) 
 Extract Anything stands out as a user-centric AI vision model, the PLUS version of Remove BG, providing unparalleled flexibility and customization. It satisfies every content extraction need you may have from images and achieves significant advancements in functionality, performance, and efficiency. 
